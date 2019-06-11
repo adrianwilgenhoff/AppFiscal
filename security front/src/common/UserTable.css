@@ -1,0 +1,26 @@
+.editable-cell {
+    position: relative;
+  }
+  
+  .editable-cell-value-wrap {
+    padding: 5px 12px;
+    cursor: pointer;
+  }
+  
+  .editable-row:hover .editable-cell-value-wrap {
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    padding: 4px 11px;
+  }
+
+  .table-user{
+
+    margin-left: 240px;
+    margin-top: 15px;
+    padding-right: 30px;
+  
+  }
+  .button{
+    margin-right:10px;
+  }
+
